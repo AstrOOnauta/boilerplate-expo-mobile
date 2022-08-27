@@ -1,4 +1,4 @@
-## Controle de Finanças
+## Expo boilerplate
 
 An Expo boilerplate including TypeScript, ESlint, Prettier, Husky, Lint-staged and Jest.
 
